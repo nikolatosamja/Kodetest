@@ -2,7 +2,7 @@
 
 You are looking through an object graph for an object that satisfy a given predicate.
 
-![Object graph](./images/object%20graph.png)
+![Object graph](./images/object graph.png)
 
 You don't know these objects. So a function (`getChildren`) that will return the next potential object(s) in the graph chain is provided.
 
