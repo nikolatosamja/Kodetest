@@ -17,4 +17,4 @@ You'll be evaluated on your ability to write
 
 - **easly** maintainable code
 - using the correct pattern(s)
-- **opholding** best practices
+- **upholding** best practices

@@ -23,4 +23,4 @@ You'll be evaluated on your ability to refactor the given code
 
 - into **easly** maintainable code
 - using the correct pattern(s)
-- **opholding** best practices
+- **upholding** best practices
