@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatTheFind", "What the fin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StolenTests", "StolenTests\C#\StolenTests\StolenTests.csproj", "{7354C84D-986F-4051-9404-E89EB068EECD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperBoy", "PaperBoy\C#\PaperBoy.csproj", "{01A6E360-7511-482E-9C3F-91FC1760B558}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7354C84D-986F-4051-9404-E89EB068EECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7354C84D-986F-4051-9404-E89EB068EECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7354C84D-986F-4051-9404-E89EB068EECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A6E360-7511-482E-9C3F-91FC1760B558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A6E360-7511-482E-9C3F-91FC1760B558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A6E360-7511-482E-9C3F-91FC1760B558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A6E360-7511-482E-9C3F-91FC1760B558}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
