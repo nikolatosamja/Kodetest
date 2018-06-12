@@ -19,4 +19,4 @@ You're not allowed to change the prototype of the function.
 
 ## What you'll be evaluated on
 
-You'll be evaluated on the efficientness of your solution and the ability to explain why your code is more efficient.
+You'll be evaluated on the efficiency of your solution and the ability to explain why your code is more efficient.

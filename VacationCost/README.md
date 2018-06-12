@@ -6,13 +6,13 @@ Which was nice.
 The program takes a few **command line** arguments.
 > program.exe [arg0:transport method] [arg1:distance to travel in km]
 
-But as more and more transportation methods and features were supported the program became harder to maintain.
+But as more and more transportation methods and features were supported, the program became harder to maintain.
 Which wasn't nice.
 
 # Solution
 
 Your task is to refactor the solution.
-Once you are done it should be easy to add new transportation methods.
+Once you are done, it should be easy to add new transportation methods.
 You're free to refactor everything :-)
 
 The only thing you're not allowed to change are the input arguments to the program.
@@ -21,6 +21,6 @@ The only thing you're not allowed to change are the input arguments to the progr
 
 You'll be evaluated on your ability to refactor the given code
 
-- into **easly** maintainable code
+- into **easily** maintainable code
 - using the correct pattern(s)
-- **opholding** best practices
+- **upholding** best practices

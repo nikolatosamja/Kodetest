@@ -2,11 +2,11 @@
 
 ![Sneaky man with swag](./images/theif.png)
 
-Oh no! Someone entered our laboratory last night, and stole all of our unit tests for our new top secret project!
+Oh no! Someone entered our laboratory last night and stole all of our unit tests for our new top secret project!
 
 Unfortunately, we cannot ship this project, unless we have every possible edge case covered!
 
-To make matters worse, the project is so secret, that nobody knows the actual implementation of the project.
+To make matters worse, the project is so secret that nobody knows the actual implementation of the project.
 
 This means the only information to write the tests is the following interface, along with the original specification of the projects behavior.
 
@@ -45,6 +45,6 @@ However you're expected to delete or re-write it.
 
 ## What you'll be evaluated on
 
-You'll be evaluated on your ability to write tests that cover as many scenarios (line and path coverages) as possible and ophold best practices.
+You'll be evaluated on your ability to write tests that cover as many scenarios (line and path coverages) as possible and uphold best practices.
 
-Extra points are given if you write tests that are easy to understand what scenario is covered.
+Extra points are given, if you write tests that make it easy to understand what scenario is covered.

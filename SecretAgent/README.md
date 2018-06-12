@@ -1,6 +1,6 @@
 # Find the secret agent
 
-Someone has infiltrated your regiment. It is your job, as the commanding officer, to write a function, that finds this secret agent.
+Someone has infiltrated your regiment. It is your job, as the commanding officer, to write a function that finds this secret agent.
 
 You know the following:
 
@@ -38,5 +38,5 @@ If you see `// YOUR SOLUTION GOES HERE` you've found the right place :-)
 
 ## What you'll be evaluated on
 
-When implementing this interface, comments should be included in the code, to reflect your thoughts on the solutions space and time complexity.
+When implementing this interface, comments should be included in the code, to reflect your thoughts on the solution's space and time complexity.
 An efficient solution gets a better score.
