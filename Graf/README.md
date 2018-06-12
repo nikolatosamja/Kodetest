@@ -35,6 +35,6 @@ You're not allowed to change any other files.
 Please note that extra points are given for a solution that allocates as little extra memory and iterates the graph as few times as possible.
 
 This should be not interpreted in terms of complexity theory but actual iterations and memory usage.
-For instance is it possible to iterate the graph only once while only using a constant number of extra pointers?
+For instance, is it possible to iterate the graph only once while only using a constant number of extra pointers?
 
 Remember to leave comments in your code, to let us know about your thought process.

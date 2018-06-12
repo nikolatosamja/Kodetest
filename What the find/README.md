@@ -1,6 +1,6 @@
 # What the Find
 
-You are looking through an object graph for an object that satisfy a given predicate.
+You are looking through an object graph for an object that satisfies a given predicate.
 
 ![Object graph](./images/object_graph.png)
 
@@ -75,4 +75,4 @@ If you see `// YOUR SOLUTION GOES HERE` you've found the right place :-)
 
 ## What you'll be evaluated on
 
-You'll be evaluated on your ability to solve this solution but also how you solve it.
+You'll be evaluated on your ability to solve this solution but also on how you solve it.
