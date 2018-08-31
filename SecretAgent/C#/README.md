@@ -29,7 +29,7 @@ public interface IFindSecretAgent {
 ## Example
 In the following example, the function should return 2
 
-![Sneaky man with swag](./images/soldiers.png)
+![Sneaky man with swag](../images/soldiers.png)
 
 # Solution
 
