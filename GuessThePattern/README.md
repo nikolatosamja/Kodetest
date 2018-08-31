@@ -10,6 +10,5 @@ Each _pattern file_ will have a comment block where you can write your answer an
 If you see `/* Write your answers and comments below this line */` you've found the rigth place :-)
 
 ## What you'll be evaluated on
-
-You'll be evaluated on the ability to determine what pattern is used.
-Extra points are given if you can write some pros or cons about the pattern.
+You'll be evaluated on your ability to determine what pattern is used and explain its pros and cons.
+Full points can be only be awarded if you explain which problems the pattern can solve and the pros and cons of the pattern.
