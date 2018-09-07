@@ -1,6 +1,6 @@
 # The Stolen Tests
 
-![Sneaky man with swag](./images/theif.png)
+![Sneaky man with swag](../images/theif.png)
 
 Oh no! Someone entered our laboratory last night and stole all of our unit tests for our new top secret project!
 

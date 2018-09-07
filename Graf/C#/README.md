@@ -3,7 +3,7 @@
 You are given a directed graph of `Customer`s, where one `Customer` has exactly one reference to the next `Customer` or `null` - if it is the last `Customer`.
 An example of such a graph can be seen in the diagram below.
 
-![Object graph](./images/graph.png)
+![Object graph](../images/graph.png)
 
 Given such a graph find the customer `int numberFromRight` nodes from right in the graph by implementing the following interface:
 
